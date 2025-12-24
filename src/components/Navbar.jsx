@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           
           {/* Logo Section */}
-          <div className="flex-shrink-0 flex items-center">
+          <div className="shrink-0 flex items-center">
             <a href="/" className="text-2xl font-bold text-blue-600">
               BrandLogo
             </a>
